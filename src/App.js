@@ -1,24 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Square from './components/Square.js';
+import Board from './components/Board.js';
+import Game from './components/Game.js';
 
 function App() {
   return (
+
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Welcome to Tic-Tac-Toe Game!</h1>
+      <Game />
+      <h3>Developed by <a href="https://dhritisaha.netlify.app">Dhriti Saha</a></h3>
     </div>
   );
 }
