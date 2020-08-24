@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tictactoe-Game/static/css/main.0f9c550e.chunk.css",
+    "main.js": "/Tictactoe-Game/static/js/main.4fd8e11f.chunk.js",
+    "main.js.map": "/Tictactoe-Game/static/js/main.4fd8e11f.chunk.js.map",
+    "runtime-main.js": "/Tictactoe-Game/static/js/runtime-main.b79cf5c6.js",
+    "runtime-main.js.map": "/Tictactoe-Game/static/js/runtime-main.b79cf5c6.js.map",
+    "static/js/2.ea414d34.chunk.js": "/Tictactoe-Game/static/js/2.ea414d34.chunk.js",
+    "static/js/2.ea414d34.chunk.js.map": "/Tictactoe-Game/static/js/2.ea414d34.chunk.js.map",
+    "index.html": "/Tictactoe-Game/index.html",
+    "precache-manifest.58573945cb4da052d2de90efe712c264.js": "/Tictactoe-Game/precache-manifest.58573945cb4da052d2de90efe712c264.js",
+    "service-worker.js": "/Tictactoe-Game/service-worker.js",
+    "static/css/main.0f9c550e.chunk.css.map": "/Tictactoe-Game/static/css/main.0f9c550e.chunk.css.map",
+    "static/js/2.ea414d34.chunk.js.LICENSE.txt": "/Tictactoe-Game/static/js/2.ea414d34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b79cf5c6.js",
+    "static/js/2.ea414d34.chunk.js",
+    "static/css/main.0f9c550e.chunk.css",
+    "static/js/main.4fd8e11f.chunk.js"
+  ]
+}
